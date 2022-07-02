@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/shoe2.obj-00f1539a6dd0465af97d71e8f4bf55d3.mesh"
+
+[deps]
+
+files=[ "res://.import/shoe2.obj-00f1539a6dd0465af97d71e8f4bf55d3.mesh" ]
+
+source_file="res://Models/shoe2.obj"
+dest_files=[ "res://.import/shoe2.obj-00f1539a6dd0465af97d71e8f4bf55d3.mesh", "res://.import/shoe2.obj-00f1539a6dd0465af97d71e8f4bf55d3.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

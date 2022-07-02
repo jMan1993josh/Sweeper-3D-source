@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Doobly Doo.mp3-c6712b05bc007e7c9e988ff65a325fac.mp3str"
+
+[deps]
+
+source_file="res://Sounds/Doobly Doo.mp3"
+dest_files=[ "res://.import/Doobly Doo.mp3-c6712b05bc007e7c9e988ff65a325fac.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

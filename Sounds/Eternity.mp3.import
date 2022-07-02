@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Eternity.mp3-b1b2dcdd6e998bde27f4d948d2810e7b.mp3str"
+
+[deps]
+
+source_file="res://Sounds/Eternity.mp3"
+dest_files=[ "res://.import/Eternity.mp3-b1b2dcdd6e998bde27f4d948d2810e7b.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
